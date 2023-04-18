@@ -1,9 +1,11 @@
 theme: jekyll-theme-minimal
-title: BeerAdvocate.com, Leveraging User Tendencies to Improve User Experience
-description: AnalyTeam, 2022
-#show_downloads: True
+title: CS-358: Making Intelligent Things
+description: Course Website 2023
+#show_downloads: False
 #navigation:
 #  - title: Home
 #    url: /
 #  - title: Bibliography
 #    url: bibliography
+#  - title: Project 1 individual
+#    url: example
