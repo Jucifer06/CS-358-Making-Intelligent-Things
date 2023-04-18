@@ -1,5 +1,5 @@
 body {
-  background-color: #E5EEF7;
+  background-color: #FFFFFF;
   top: 0;
   bottom: 0;
   padding-left: 25vw;
@@ -13,7 +13,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#E29B0F;
+  color:#0a1172;
   margin:0 0 20px;
 }
 
@@ -39,30 +39,30 @@ h2 {
 }
 
 h3, h4, h5, h6 {
-  color:#E29B0F;
+  color:#0a1172;
   font-size:20px;
   text-align: left;
   font-weight: 500;
 }
 
 a {
-  color:#E29B0F;
+  color:#0a1172;
   text-decoration:none;
 }
 
 a:hover {
-  color:#C98A0D;
+  color:#000000;
 }
 
 a small {
   font-size:11px;
-  color:#E29B0F;
+  color:#0a1172;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#C98A0D;
+  color:#000000;
 }
 
 .wrapper {
